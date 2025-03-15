@@ -5,6 +5,8 @@ The contents of this repository document the development of a proposed redesign 
 
 ## Documentation
 - The file titled "When2Work Redesign Prototype Outline" offers an in-depth report of our findings, interpretations, and development.
-- Below, I have provided two **Important Links** - one to the figma file of our Mockup Prototype, and one to the presentation mode of this same prototype
+- Below, I have provided two **Important Links** - one for the figma file of our Mockup Prototype, and one to the presentation mode of this same prototype.
 
 ## Important Links
+[Mockups Prototype (Figma File)] (https://www.figma.com/design/YIKl8BxymNetQvxYi6lhgJ/When2Work-Prototype-(909))
+Presentation Mode (to present mode)
