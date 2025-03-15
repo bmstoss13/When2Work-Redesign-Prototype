@@ -4,7 +4,7 @@
 This repository documents the development of a proposed redesign for the When2Work application. When2Work is primarily used by companies to create, regulate, and manage employee schedules. While the application serves its intended purpose, my team identified several design and usability issues that hinder the overall user experience for employees. This project aims to improve those aspects through research, wireframing, and prototyping.
 
 ## Documentation
-- The file titled "When2Work Redesign Prototype Outline" offers an in-depth report of our findings, interpretations, and development.
+- The file titled "When2Work Redesign Prototype Outline.pdf" offers an in-depth report of our findings, interpretations, and development.
 - Below, I have provided two **Important Links** - one to the editable figma file of our Mockup Prototype, and one to the interactive presentation mode of the prototype.
 
 ## Important Links
