@@ -8,5 +8,5 @@ The contents of this repository document the development of a proposed redesign 
 - Below, I have provided two **Important Links** - one for the figma file of our Mockup Prototype, and one to the presentation mode of this same prototype.
 
 ## Important Links
-[Mockups Prototype (Figma File)] (https://www.figma.com/design/YIKl8BxymNetQvxYi6lhgJ/When2Work-Prototype-(909))
-Presentation Mode (to present mode)
+- [Mockups Prototype (Figma File)](https://www.figma.com/design/YIKl8BxymNetQvxYi6lhgJ/When2Work-Prototype-(909))
+- [Presentation Mode (to present mode)](https://www.figma.com/proto/YIKl8BxymNetQvxYi6lhgJ/When2Work-Prototype-(909)?node-id=17-2&node-type=canvas&t=ZUQdQpG0JmSvwfdk-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=17%3A2)
